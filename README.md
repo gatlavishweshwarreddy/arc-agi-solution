@@ -42,6 +42,3 @@
 - **Method:** Test-Time Training (TTT) with RSLoRA
 - **GPUs:** 4x Nvidia L4 (22GB each)
 - **Framework:** Unsloth + HuggingFace Transformers
-
-### Pipeline
-eof
