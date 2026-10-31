@@ -5,10 +5,10 @@
 ---
 
 ## Results
-| Competition | Score | Rank |
-|-------------|-------|------|
-| ARC-AGI-3 | 93.07% | Top |
-| ARC-AGI-2 | ~35-50% | TBD |
+| Competition | Score |
+|-------------|-------|
+| ARC-AGI-3 | 93.07% |
+| ARC-AGI-2 | ~35-50% |
 
 ---
 
