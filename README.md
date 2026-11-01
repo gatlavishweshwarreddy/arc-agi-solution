@@ -4,12 +4,6 @@
 
 ---
 
-## Results
-| Competition | Score |
-|-------------|-------|
-| ARC-AGI-3 | 93.07% |
-| ARC-AGI-2 | ~35-50% |
-
 ---
 
 ## AGI-3 Solution (93.07%)
