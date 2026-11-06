@@ -1,3 +1,4 @@
+# ARC-PRIZE 2026 KAGGLE
 # ARC-AGI Solution — AGI-2 & AGI-3
 **Author:** Vishweshwar Reddy Gatla  
 **GitHub:** https://github.com/gatlavishweshwarreddy/arc-agi-solution
